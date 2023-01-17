@@ -1,2 +1,5 @@
-package platform;public enum platform {
+package platform;
+
+public enum Platform {
+    ANDROID, IOS
 }
